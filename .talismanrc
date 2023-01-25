@@ -1,0 +1,6 @@
+fileignoreconfig:
+- filename: src/index.html
+  checksum: 36a85fa056859c14413562c86ce511b9df6a39e6221442b0ffebb3cedf33f6f2
+- filename: src/app/pais/interfaces/pais.interface.ts
+  checksum: da211677f4815c22c9ddf07064071300787255b62cb37103046f4ae075c9ef22
+version: ""
